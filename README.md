@@ -4,6 +4,8 @@
 
 Generates an animated GIF of a robot/quadrotor moving along a 2D trajectory, with a custom icon that follows the path and an optional trailing line.
 
+![Sample output: a quadrotor icon following a trajectory](output/quadTrajectory.gif)
+
 ## Structure
 
 ```
