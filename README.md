@@ -1,6 +1,6 @@
 # PlotQuad
 
-> **Note:** All code in this repository was written by Kleber Cabral. The README documentation and inline code comments were added with AI assistance (Claude).
+> **Note:** All code in this repository was written by Kleber Cabral. The README documentation, inline code comments and the icon in `assets/` were added with AI assistance (Claude).
 
 Generates an animated GIF of a robot/quadrotor moving along a 2D trajectory, with a custom icon that follows the path and an optional trailing line.
 
